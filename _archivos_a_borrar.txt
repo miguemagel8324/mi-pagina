@@ -1,0 +1,17 @@
+about.html
+courses.html
+delete_files.bat
+elearning-html-template.jpg
+testimonial.html
+READ-ME.txt
+LICENSE.txt
+scss/
+lib/
+img/
+js/
+css/
+
+# Explicación:
+- Los archivos y carpetas listados arriba parecen no ser utilizados directamente en la navegación principal del sitio o son recursos de desarrollo/plantilla/documentación.
+- Los archivos principales del sitio institucional son: index.html, 404.html, quienes-somos.html, carrera.html, malla.html, admision.html, servicios.html, team.html, testimonios.html, contact.html.
+- Si algún archivo de la lista es necesario, por favor indícalo antes de proceder a borrarlo.

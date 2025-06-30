@@ -1,0 +1,7 @@
+Las imágenes nuevas de los profesores han sido recibidas. Para implementarlas correctamente:
+
+1. Se reemplazarán los archivos team-1.jpg, team-2.jpg, team-3.jpg, team-4.jpg, etc., en la carpeta img/ por las nuevas imágenes que has enviado.
+2. El nombre de cada profesor se actualizará en el archivo team.html según el nombre de cada imagen (sin la extensión .jpg).
+3. Si hay más imágenes que slots visibles, se agregarán más bloques de docente en el HTML para que todos se muestren.
+
+¿Deseas que se muestre el nombre exactamente igual al nombre del archivo (por ejemplo, "Maria Perez" si la imagen es maria-perez.jpg)? Si quieres un formato diferente, indícalo antes de proceder.
